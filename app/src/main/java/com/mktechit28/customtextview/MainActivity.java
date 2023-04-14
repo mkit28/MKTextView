@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        MKTextView tv = new MKTextView(this);
+        // MKTextView tv = new MKTextView(this);
 
 
 
